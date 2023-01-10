@@ -16,7 +16,7 @@ To work as a community to facilitate adoption of IETF Supply Chain Integrity, Tr
 ## SCITT Community Resources:
 + Website for SCITT Community: [scitt.io](https://scitt.io)
 
-## IETF SCITT Working Group Resources
+## IETF SCITT Working Group Resources:
 + IETF SCITT Working Group GitHub Org- https://github.com/ietf-scitt 
 + IETF SCITT Working Group Documents: https://datatracker.ietf.org/wg/scitt/documents/ 
 + IETF Working Group Meetings: https://datatracker.ietf.org/wg/scitt/meetings/ 
