@@ -1,5 +1,5 @@
 # Overview
-The Supply Chain Integrity, Transparency and Trust (SCITT) community is a group of SCITT enthusiasts focused on adoption of [IETF SCITT specifications] (https://datatracker.ietf.org/wg/scitt) via implementations, tooling, testing, advocacy, outreach and interoperability. SCITT community is fully open and new members are welcome to participate. 
+The Supply Chain Integrity, Transparency and Trust (SCITT) community is a group of SCITT enthusiasts focused on adoption of [IETF SCITT specifications](https://datatracker.ietf.org/wg/scitt) via implementations, tooling, testing, advocacy, outreach and interoperability. SCITT community is fully open and new members are welcome to participate. 
 
 # Our Goal 
 To work as a community to facilitate adoption of IETF Supply Chain Integrity, Transparency & Trust (SCITT) specifications.
