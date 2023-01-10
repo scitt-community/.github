@@ -11,7 +11,7 @@ To work as a community to facilitate adoption of IETF Supply Chain Integrity, Tr
 
 ## SCITT Community Meetings:
 + SCITT Community Meetings: We are working on scheduling our kickoff meeting. Cadence and time of meeting to be discussed during kickoff meeting
-- Link to meeting agenda, prior meeting notesand meeting videos once available
+- Link to meeting agenda, prior meeting notes and meeting videos will be made available
 
 ## SCITT Community Resources:
 + Website for SCITT Community: [scitt.io](https://scitt.io)
