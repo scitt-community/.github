@@ -10,8 +10,9 @@ To work as a community to facilitate adoption of IETF Supply Chain Integrity, Tr
 + Join the SCITT community mailing list at https://groups.io/g/scitt-community
 
 ## SCITT Community Meetings:
-+ SCITT Community Meetings: We are working on scheduling our kickoff meeting. Cadence and time of meeting to be discussed during kickoff meeting
-- Link to meeting agenda, prior meeting notes and meeting videos will be made available
++ SCITT Community Meetings: Bi-Weekly on Wednesday 8AM PST/4PM UTC
++ SCITT Community Bi-Weekly Meeting (iCal link): [Click Here](https://zoom.us/meeting/tZIucuisqj4sGNYoptUH4YDWxty7rLcEz5eH/ics)
++ Meeting  Notes and Videos: [See link to meeting notes and previously recorded sessions](https://docs.google.com/document/d/1OBfJmZdxXfJ7MWHKmCaAn0Grn1LHxFOyFtPdH_U_dOQ)
 
 ## SCITT Community Resources:
 + Website for SCITT Community: [scitt.io](https://scitt.io)
